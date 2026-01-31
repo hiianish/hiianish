@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I’m Anish.
+
+I’m a student working towards a career in the Artificial Intelligence and Data Science industry.
+I’m focused on building a strong foundation through hands-on projects, problem-solving,
+and continuous learning beyond coursework.
 
 <!--
 **hiianish/hiianish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
