@@ -11,95 +11,62 @@
  Venturing into Multimodal AI, Fine-Tuning & AI Infrastructure
 ---
 
+
 # 🛠️ Tech Stack
 
-<table>
-<tr>
-
-<td valign="top" width="25%">
-
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</td>
+---
 
-<td valign="top" width="25%">
-
-### 🤖 AI / ML
+## 🤖 AI / LLM Engineering
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
-
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge)
-
 ![LLM](https://img.shields.io/badge/LLM-0A66C2?style=for-the-badge)
-
 ![SLM](https://img.shields.io/badge/SLM-7B68EE?style=for-the-badge)
-
 ![Fine Tuning](https://img.shields.io/badge/Fine_Tuning-FF1493?style=for-the-badge)
-
 ![AI Agents](https://img.shields.io/badge/AI_Agents-00C853?style=for-the-badge)
-
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF9800?style=for-the-badge)
 
-</td>
+---
 
-<td valign="top" width="25%">
-
-### 🧠 Frameworks
+## 🧠 Frameworks & Libraries
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
-
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-
 ![CLIP](https://img.shields.io/badge/CLIP-00BFFF?style=for-the-badge)
-
 ![FAISS](https://img.shields.io/badge/FAISS-FF4500?style=for-the-badge)
 
-</td>
+---
 
-<td valign="top" width="25%">
-
-### ⚙️ MLOps & Tools
+## ⚙️ MLOps & Deployment
 
 ![MLOps](https://img.shields.io/badge/MLOps-006400?style=for-the-badge)
-
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</td>
-
-</tr>
-</table>
-
 ---
+
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
 
 # 🌐 Connect With Me
 
