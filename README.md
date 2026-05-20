@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=38&center=true&vCenter=true&width=1000&height=60&duration=3000&pause=1000&color=00F7FF&lines=Hi+👋+I'm+Anish+Yadav;AI+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=38&center=true&vCenter=true&width=1000&height=60&duration=3000&pause=1000&color=00F7FF&lines=Hi+👋+I'm+Anish;AI+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+AI+Systems" />
 </h1>
 
 ---
 
 # About Me
 
- Masters Degree in Artificial Intelligence & Data Science at IIITM Gwalior
- Fascinated with LLMs, RAG Pipeline, AI Agents & Deep Learning  
- Venturing into Multimodal AI, Fine-Tuning & AI Infrastructure
+I’m a student working towards a career in the Artificial Intelligence and Data Science industry.
+I’m focused on building a strong foundation through hands-on projects, problem-solving,
+and continuous learning beyond coursework.
 ---
 
 
@@ -31,6 +31,18 @@
 ![Fine Tuning](https://img.shields.io/badge/Fine_Tuning-FF1493?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-00C853?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF9800?style=for-the-badge)
+
+---
+
+## 📊 Data & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
